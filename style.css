@@ -9,20 +9,26 @@ ol li {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #table {
-    line-height:200%
+    line-height:100%
 }
 footer {
     padding-top: 3px;
     padding-bottom: 3px;
     padding-left:  30px;
-    background: #444;
-    color: white;
+    background: #316ec9;
+    color: rgb(219, 219, 219);
 }
 a.foo:hover {
-  text-decoration-color: black;
+  text-decoration-color: rgb(24, 4, 77);
   color: black;
 }
 a.foo {
   text-decoration-color: white;
   color: white;
+}
+
+body{
+    background-color: azure;
+    margin: 0;
+    padding: 20;
 }
