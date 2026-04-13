@@ -38,5 +38,9 @@ td{
     padding: 8px;
 }
 
+th{
+    padding: 12px;
+    text-align: left;
+}
 
 
