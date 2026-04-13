@@ -43,4 +43,8 @@ th{
     text-align: left;
 }
 
+tr:hover{
+    background-color:aquamarine;
+}
+
 
